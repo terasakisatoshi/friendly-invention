@@ -23,6 +23,15 @@ end
 # ╔═╡ 7603c52a-894a-46db-963e-2007695b941d
 using PlutoUI
 
+# ╔═╡ 86d631ea-2c18-4ef8-aa3b-4b3153808fe0
+md"""
+# Simple CSV Viewer
+
+JP: このノートブックはユーザが選択したCSVファイルを DataFrame オブジェクトとして表示させるだけのシンプルな機能を提供します．
+
+EN: This notebook provides a simple function to display a CSV file selected by the user as a DataFrame object.
+"""
+
 # ╔═╡ d54213de-af73-4b8e-a4c1-ac078f6b3cd3
 md"""
 Pick CSV file
@@ -472,6 +481,7 @@ version = "17.4.0+2"
 """
 
 # ╔═╡ Cell order:
+# ╟─86d631ea-2c18-4ef8-aa3b-4b3153808fe0
 # ╠═8aad7c9e-1b19-11ef-28cf-f9e7defc5703
 # ╠═7603c52a-894a-46db-963e-2007695b941d
 # ╟─d54213de-af73-4b8e-a4c1-ac078f6b3cd3
